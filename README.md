@@ -291,7 +291,7 @@ sudo docker-compose start
 ------
 
 ## Deploying on Heroku
-<p><a href="https://github.com/anasty17/mirror-leech-telegram-bot/tree/heroku"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
+<p><a href="https://github.com/princejaiswal-coder/noone/tree/heroku"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 ------
 
@@ -514,3 +514,9 @@ To Clone or Leech  link follow these steps:
 4. From this you have to paste value for **CRYPT** in config.env file.
 
 -----
+
+  
+  ## Credit
+  - Prince Jaiswal [ME]
+  - Anas
+  - Bruce
